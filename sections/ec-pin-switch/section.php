@@ -72,7 +72,7 @@ class TmSectionPinSwitch extends PageLinesSection {
     </style>
 	<script>
 		jQuery(document).ready(function($) {
-			jQuery('<?php echo "#pin-switch".$this->meta["clone"]?> .tabpinnes').tabpinnes();
+			jQuery('<?php echo $this->prefix()?> .tabpinnes').tabpinnes();
 		});
 	</script>
     <?php
