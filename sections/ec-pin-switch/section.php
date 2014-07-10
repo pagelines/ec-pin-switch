@@ -3,7 +3,7 @@
 	Section: Pin Switch
 	Author: Enrique Chavez
 	Author URI: http://enriquechavez.co
-	Description: The "Pin Switch" section allows you to show small information blocks using elegant "bullet" navigation in an easy way. Full color customization with 7 options to choose. Every single "Pin" element can be configured.
+	Description: The "Pin Switch" section allows you to show small information blocks using elegant "bullet" navigation in an easy way. Full color customization with 7 options to choose from. Every single "Pin" element can be configured.
 	Class Name: TmSectionPinSwitch
 	Workswith: templates, main, header, morefoot, content
 	Cloning: true
