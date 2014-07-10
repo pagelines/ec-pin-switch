@@ -3,7 +3,7 @@
 	Section: Pin Switch
 	Author: Enrique Chavez
 	Author URI: http://enriquechavez.co
-	Description: The "Pin Switch" section allows you to show small information blocks using a elegant "bullet" navigation in a easy way. Full color customization with 7 options to choose. Every single "Pin" element can be configured.
+	Description: The "Pin Switch" section allows you to show small information blocks using elegant "bullet" navigation in an easy way. Full color customization with 7 options to choose. Every single "Pin" element can be configured.
 	Class Name: TmSectionPinSwitch
 	Workswith: templates, main, header, morefoot, content
 	Cloning: true
@@ -60,14 +60,11 @@ class TmSectionPinSwitch extends PageLinesSection {
 			box-shadow: 0 0 0 8px <?php echo $normal_border ?>;
 		}
 
-
-
 		<?php echo $this->prefix()?> .tabbed .pines .tab a .line:before,
 		<?php echo $this->prefix()?> .tabbed .pines .tab a .line:after{
 			border-bottom: 1px solid <?php echo $line; ?>;
 		}
-
-
+		/* END PIN SWITCH */
 
     </style>
 	<script>

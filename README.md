@@ -1,6 +1,6 @@
 ##Pin Switch Section
 
-The "Pin Switch" section allows you to show small information blocks using a elegant "bullet" navigation in a easy way. Full color customization with 7 options to choose. Every single "Pin" element can be configured.
+The "Pin Switch" section allows you to show small information blocks using elegant "bullet" navigation in an easy way. Full color customization with 7 options to choose. Every single "Pin" element can be configured.
 
 **This assume that you have already purchased and installed [PageLines DMS][1].**
 
